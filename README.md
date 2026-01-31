@@ -20,7 +20,6 @@ This repository documents my hands-on practice with cybersecurity tools, network
 ## 📌 What You’ll Find
 - Step-by-step lab documentation
 - Commands used
-- Screenshots of analysis
 - Key takeaways
 - Challenges faced & lessons learned
 
