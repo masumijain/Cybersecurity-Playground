@@ -9,7 +9,7 @@ Date: 31/01/2026
 Objective:
 To capture and analyze WiFi network traffic using Wireshark, understand packet structure and protocol behavior, and demonstrate (in a controlled lab environment) how unencrypted HTTP traffic can expose login credentials for educational purposes. The lab also emphasizes the importance of HTTPS encryption in securing sensitive data.
 
-1. Step-by-Step Lab Procedure
+# Step-by-Step Lab Procedure
 # Step 1: Setup
 Installed Wireshark on [Windows/Linux/macOS].
 Connected the system to a controlled WiFi lab network (VM environment).
