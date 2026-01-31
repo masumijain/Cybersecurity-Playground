@@ -1,7 +1,9 @@
 Wireshark Lab Documentation
 
 Name: Masumi Jain
+
 Lab Topic: Network Traffic Analysis using Wireshark – WiFi Traffic Analysis and Educational Demonstration of Credential Exposure
+
 Date: 31/01/2026
 
 Objective:
