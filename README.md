@@ -1,7 +1,6 @@
 # 🔐 Cybersecurity Playground
 
 Welcome to my Cybersecurity Playground!
-
 This repository documents my hands-on practice with cybersecurity tools, network traffic analysis, security labs, and defensive security concepts.
 
 ## 🎯 Purpose
