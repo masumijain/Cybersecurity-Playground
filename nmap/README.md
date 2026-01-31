@@ -158,6 +158,3 @@ nmap -p 80,443 192.168.1.5
 * Gained practical experience in **network reconnaissance**
 * Improved understanding of **port scanning and service enumeration**
 * Strengthened foundational skills in **security assessment and auditing**
-
-
-If you want, I can now also refine your **Wireshark README to match this exact visual style**, so your entire repo looks consistent and high-quality.
